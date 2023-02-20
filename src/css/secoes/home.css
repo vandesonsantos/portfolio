@@ -5,6 +5,9 @@
 
 .home .text-home{
     letter-spacing: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .home .text-home, .home .img-home{
