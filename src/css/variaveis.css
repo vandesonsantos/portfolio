@@ -1,5 +1,5 @@
 :root{
-  --cor-animacoes: #26a682; 
+  --cor-animacoes: #26A682; 
   /* --cor-secundaria: #FD6C22;     */
   --cor-textos: #F2EFBD;
   --cor-fundo-escuro: #04020350;    
@@ -12,7 +12,7 @@
   --fonte-secundaria: 'Raleway', sans serif;
   --fonte-gigante: 4.5rem;
   --fonte-extra-grande: 3rem;
-  --fonte-grande: 2.4rem;
+  --fonte-grande: 2.5rem;
   --fonte-normal: 1.6rem;
 }
   
