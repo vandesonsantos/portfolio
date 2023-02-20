@@ -1,10 +1,10 @@
 :root{
-  --cor-primaria: #43bd8e;
-  --cor-secundaria: #FD6C22;    
-  --cor-branca: #fff;
-  --cor-fundo-escuro: #040203;    
-  --cor-fundo-cinza-escuro: #282828;
-  --cor-fundo-cinza-claro: #353535;
+  --cor-animacoes: #26a682; 
+  /* --cor-secundaria: #FD6C22;     */
+  --cor-textos: #F2EFBD;
+  --cor-fundo-escuro: #04020350;    
+  --cor-fundo-backgroud: #343d59;
+  /* --cor-fundo-cinza-claro: #353535; */
 }
 
 :root{

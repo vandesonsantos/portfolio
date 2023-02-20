@@ -2,12 +2,25 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap");
 
 html{
+    color: var(--cor-textos);
     font-size: 62.5%;
-    color: var(--cor-branca);
+    font-weight: 300;
 }
 
 body{
-    background-color: var(--cor-fundo-cinza-escuro);
+    background-color: var(--cor-fundo-backgroud);
     font-family: var(--fonte-primaria);
     font-size: var(--fonte-normal);
+}
+
+.display-flex{
+    display: flex;
+}
+
+.justify-content-between{
+    justify-content: space-between;
+}
+
+.alinhar-itens-no-centro{
+    align-items: center;
 }
