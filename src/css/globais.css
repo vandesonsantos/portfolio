@@ -5,6 +5,7 @@ html{
     color: var(--cor-textos);
     font-size: 62.5%;
     font-weight: 300;
+    scroll-behavior: smooth;
 }
 
 body{
@@ -13,8 +14,14 @@ body{
     font-size: var(--fonte-normal);
 }
 
+.conteiner{
+    max-width: 1140px;
+    margin: auto;
+}
+
 .display-flex{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .justify-content-between{

@@ -12,7 +12,6 @@
     line-height: 55px;
     text-align: center;
     text-decoration: underline;
-    margin-left: 80px;
     transition: 0.2s;
 }
 
@@ -108,10 +107,6 @@
 }
 
 @media(max-width: 900px){
-    .header .logo{
-        margin-left: 0px;
-    }
-
     .header .menu{
         display: block;
     }
