@@ -1,0 +1,14 @@
+.img-sobre-mim{
+    max-width: 40%;
+    padding: 0 15px;
+}
+.img-sobre-mim .img-box{
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.img-sobre-mim img{
+    border: 10px solid transparent;
+    border-radius: 5px;
+}
