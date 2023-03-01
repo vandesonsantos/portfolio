@@ -5,19 +5,16 @@
 .header .logo{
     font-family: var(--fonte-secundaria);
     font-size: var(--fonte-extra-grande);
-    border: 2px solid var(--cor-textos);
-    border-radius: 50%;
-    width: 65px;
-    height: 65px;
-    line-height: 55px;
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
     text-align: center;
-    text-decoration: underline;
     transition: 0.2s;
 }
 
 .header a:hover .logo{
     color: var(--cor-animacoes);
-    border: 2px solid var(--cor-animacoes);
+
 }
 
 .header nav ul{

@@ -82,9 +82,10 @@ body{
     border-radius: 20px;
     transition: all 0.3s ease;
     background-color: var(--cor-animacoes);
+    color: var(--cor-animacoes-02);
 }
 
 .botao:hover{
-    background-color: var(--cor-fundo-backgroud);
+    background-color: var(--cor-animacoes-02);
     color: var(--cor-animacoes);
 }
