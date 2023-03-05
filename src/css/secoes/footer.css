@@ -3,6 +3,7 @@
     text-align: center;
     background-color: #00000060;
     padding: 5rem 0;
+    box-shadow: 1px 1px #222327ab, -1px -1px 20px #f2efbd54;
 }
 
 .footer h2{
