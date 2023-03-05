@@ -1,8 +1,7 @@
 .home{
     background-image: url("../../imagens/background-home.jpg");
     background-repeat: no-repeat;
-    background-size: cover;  
-    box-shadow: 1px 1px #222327ab, -1px -1px 10px #f2efbd54;
+    background-size: cover;
 }
 
 .home .full-screen{
