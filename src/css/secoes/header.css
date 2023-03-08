@@ -17,6 +17,10 @@
 
 }
 
+.header nav{
+
+}
+
 .header nav ul{
     display: flex;
 }
@@ -114,14 +118,14 @@
 
     .header nav{
         position: absolute;
-        top: 30px;
+        top: 40px;
         right: 20px;
         z-index: 1;
     }
 
     .header nav ul{
         display: none;
-        background-color: var(--cor-fundo-escuro);
+        background-color: var(--cor-background);
         padding: 20px;
         border-radius: 10px;
     }
