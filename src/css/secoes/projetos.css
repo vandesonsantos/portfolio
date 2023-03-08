@@ -2,12 +2,18 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(380px, 2fr));
     margin: 0 auto;
-    grid-gap: 30px;
+    grid-gap: 40px;
 }
 
 @media(max-width: 1280px){
     .conteiner-projetos{
         padding: 0 var(--mobile-padding);
+    }
+}
+
+@media(max-width: 500px){
+    .conteiner-projetos{
+        grid-template-columns: repeat(auto-fill, minmax(300px, 2fr));
     }
 }
 
