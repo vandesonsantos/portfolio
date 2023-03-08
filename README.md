@@ -1,6 +1,6 @@
 # Olá 🖖, Conheça Meu Portfólio
 
-[<img src="./\src\imagens/tela-readme.gif" target="_blank">](https://vandesonsantos.github.io/social-proof-section-master/) 
+[<img src="./\src\imagens/tela-readme.gif" target="_blank">](https://github.com/vandesonsantos/portfolio) 
 
 ## Bem-Vindos! 👋
 
