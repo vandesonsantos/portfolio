@@ -14,11 +14,6 @@
 
 .header a:hover .logo{
     color: var(--cor-animacoes);
-
-}
-
-.header nav{
-
 }
 
 .header nav ul{

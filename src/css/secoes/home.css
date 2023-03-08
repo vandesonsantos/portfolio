@@ -65,3 +65,9 @@
         padding: var(--mobile-padding);
     }
 }
+
+@media(max-width: 500px){
+    .home .full-screen{
+        padding: 0px;
+    }
+}
