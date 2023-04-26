@@ -1,0 +1,15 @@
+.footer{
+    margin-top: 7rem;
+    text-align: center;
+    background-color: #00000060;
+    padding: 5rem 0;
+    box-shadow: 1px 1px #222327ab, -1px -1px 20px #f2efbd54;
+}
+
+.footer h2{
+    font-family: var(--fonte-secundaria);
+    font-size: var(--fonte-normal);
+    font-weight: 700;
+    line-height: 10px;
+    margin-bottom: 20px;
+}

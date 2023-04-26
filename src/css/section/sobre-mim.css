@@ -1,0 +1,51 @@
+.sobre-mim{
+    background-color: var(--cor-background);
+    box-shadow: 1px 1px #222327ab, -1px -1px 20px #f2efbd54;
+}
+
+.img-sobre-mim{
+    max-width: 40%;
+    padding: 0 15px;
+}
+.img-sobre-mim .img-box{
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.img-sobre-mim img{
+    border: 10px solid transparent;
+    border-radius: 5px;
+}
+
+.infor-sobre-mim{
+    max-width: 50%;
+    padding: 0 25px;
+}
+
+.infor-sobre-mim .botoes{
+    margin-top: 50px;
+}
+
+.infor-sobre-mim p{
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+@media(max-width: 980px){
+    .sobre-mim .display-flex{
+        justify-content: center;
+    }
+
+    .img-sobre-mim{
+        max-width: 100%;
+        padding: 0 var(--mobile-padding);
+        margin-bottom: 50px;
+    }
+
+    .infor-sobre-mim{
+        padding: 0 var(--mobile-padding);
+        text-align: center;    
+        max-width: 100%;
+    }
+}
